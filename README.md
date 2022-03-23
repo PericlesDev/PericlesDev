@@ -1,4 +1,4 @@
-### Hello World!! my name is Péricles dos Santos 👋
+### <h1 width="30px">Hello World!! My name is Péricles dos Santos</h1>
 
 <div align="center">
   <a href="https://github.com/PericlesDev">
