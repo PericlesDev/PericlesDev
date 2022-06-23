@@ -11,7 +11,7 @@
   <img align="center" alt="Pericles-languages" height="340" width="340" src="https://user-images.githubusercontent.com/91090285/159661018-e6429ba3-572d-4123-9736-7cc78e17aa8f.gif">
 </div>
  
-  <h3 align="center">Connect with me:</h3>
+  <h3 align="center">Conecte-se comigo:</h3>
 <p align="left">
 <h3 align="center"><a href="https://www.linkedin.com/in/devpericles/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <a href="https://www.instagram.com/pericles_developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
