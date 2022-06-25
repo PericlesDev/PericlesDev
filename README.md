@@ -1,4 +1,4 @@
-### <h1 width="30px" align="center">Hello World! My name is Péricles dos Santos</h1>
+### <h1 width="30px" align="center">Hello World! My name is Péricles dos Santos 😀</h1>
 
 <div align="center">
 <div display:inline-items>
