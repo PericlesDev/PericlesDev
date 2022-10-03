@@ -17,7 +17,7 @@
   <a href="periclesdev@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="rishav_chanda" height="30" width="40" /></a>
 <a href="PericlesDosSantosRamos@hotmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-2019%29.svg" alt="rishav_chanda" height="30" width="40" /></a>
   </div>
-  <img align="right" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width='300'>
+  
    
 </p>
 
