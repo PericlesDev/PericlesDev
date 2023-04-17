@@ -27,8 +27,12 @@ src="https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%28201
 
 
 
-<span>[<img src="https://github-readme-stats.vercel.app/api?username=PericlesDev&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="180">](https://github-readme-stats.vercel.app/api?username=PericlesDev)</span>
-<span>[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PericlesDev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" align="right" height="180">](https://github-readme-stats.vercel.app/api/top-langs/?username=PericlesDev)</span>  
+<div align="center">
+<div display:inline-items>
+  <a href="https://github.com/PericlesDev">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PericlesDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PericlesDev&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 
 <div align="center">
